@@ -1,0 +1,3 @@
+BASE_DIR=../..
+LIBS=hal
+MCU=STM32F103
